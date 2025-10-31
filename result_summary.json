@@ -1,0 +1,131 @@
+{
+  "n_nodes": 250,
+  "n_edges": 949,
+  "top5_degree": [
+    [
+      "K9",
+      16
+    ],
+    [
+      "S4",
+      15
+    ],
+    [
+      "V0",
+      15
+    ],
+    [
+      "H7",
+      14
+    ],
+    [
+      "M5",
+      14
+    ]
+  ],
+  "degree_histogram_counts": {
+    "1": 1,
+    "2": 4,
+    "3": 8,
+    "4": 21,
+    "5": 22,
+    "6": 35,
+    "7": 40,
+    "8": 31,
+    "9": 26,
+    "10": 26,
+    "11": 16,
+    "12": 8,
+    "13": 5,
+    "14": 4,
+    "15": 2,
+    "16": 1
+  },
+  "top5_smallest_sumdist": [
+    [
+      "S4",
+      1439
+    ],
+    [
+      "M3",
+      1445
+    ],
+    [
+      "F8",
+      1446
+    ],
+    [
+      "H7",
+      1447
+    ],
+    [
+      "F9",
+      1454
+    ]
+  ],
+  "top5_largest_sumdist": [
+    [
+      "O1",
+      3079
+    ],
+    [
+      "N4",
+      2737
+    ],
+    [
+      "W4",
+      2570
+    ],
+    [
+      "G0",
+      2530
+    ],
+    [
+      "K2",
+      2453
+    ]
+  ],
+  "top5_by_proximity (1/sum)": [
+    [
+      "S4",
+      0.0006949270326615705
+    ],
+    [
+      "M3",
+      0.0006920415224913495
+    ],
+    [
+      "F8",
+      0.0006915629322268327
+    ],
+    [
+      "H7",
+      0.000691085003455425
+    ],
+    [
+      "F9",
+      0.000687757909215956
+    ]
+  ],
+  "start_high_deg": "K9",
+  "count_5days_from_highdeg": 250,
+  "start_lowest_sum": "S4",
+  "count_7days_from_lowproximity": 250,
+  "removed_nodes_list": [
+    "K9",
+    "S4",
+    "V0",
+    "H7",
+    "M5",
+    "M3",
+    "F8",
+    "F9"
+  ],
+  "n_removed": 8,
+  "n_nodes_after_removal": 242,
+  "n_edges_after_removal": 847,
+  "start_high_deg_removed": "X9",
+  "count_4days_from_highdeg_removed": 242,
+  "start_lowest_sum_removed": "G1",
+  "count_3days_from_lowproximity_removed": 211
+}
